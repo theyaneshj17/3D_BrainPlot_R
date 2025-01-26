@@ -3,8 +3,6 @@ library(ggseg3d)         # For 3D brain plots
 library(htmlwidgets)     # For saving widgets as HTML
 
 
-# Continue with the rest of your code...
-
 
 ##Atlas Region Specifications (considering dk_3d here)
 
