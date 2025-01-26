@@ -2,6 +2,9 @@
 
 This script demonstrates how to create and visualize brain regions with consistent color scales across multiple brain plots. It utilizes the *ggseg3d* package for 3D brain visualization and ensures that all plots use the same color scale for comparative purposes.
 
+![Description of the image](final.png)
+
+
 ## Key Features:
 
 1. Global Color Scale: Ensure that all brain plots use the same color scale based on the global minimum and maximum values, ensuring consistency across plots.
@@ -125,6 +128,18 @@ htmlwidgets::saveWidget(p1, file.path(path, "brain_plot1.html"))
 
 ##Similarly for p2, p3 brain plots 
 ```
+
+### Brain Plot 1
+
+![Brainplot1](Brainplot1.png)
+
+### Brain Plot 2
+
+![Brainplot2](Brainplot2.png)
+
+### Brain Plot 3
+
+![Brainplot3](Brainplot3.png)
 
 ## Use Cases
 ### 1. Comparing Brain Regions Across Different Conditions or Timepoints
