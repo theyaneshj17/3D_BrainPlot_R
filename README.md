@@ -1,4 +1,4 @@
-# Creating Consistent Color Scales Across Multiple 3D Brain Plots in R
+# Consistent Color Scales Across Multiple 3D Brain Visualization with ggseg3d in R
 
 This script demonstrates how to create and visualize brain regions with consistent color scales across multiple brain plots. It utilizes the *ggseg3d* package for 3D brain visualization and ensures that all plots use the same color scale for comparative purposes.
 
